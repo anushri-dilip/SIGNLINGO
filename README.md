@@ -1,7 +1,7 @@
 ## SIGNLINGO
 # Sign Language Translation System (Mini-project for college)
 
-**Project Overview**
+**Project Overview**<br>
 Our project focuses on creating a computer system that can seamlessly translate between American Sign Language (ASL) and Indian Sign Language (ISL) using advanced Natural Language Processing (NLP) techniques. Despite the similarities between ASL and ISL, their distinct words, sentence structures, and rules present significant translation challenges.
     
 **Impact**
